@@ -17,34 +17,34 @@ Class will be accessible to geoscientists and data scientists with no previous e
 For the following 2-day class outline it is assumed that: (1) the class will be taught in English without translation, and (2) 1/3 of time will be guided hands-on practice
 
 1. Exploratory Data Analysis
-a. Sampling theory, stationarity, data debiasing
-b. Random variables and functions
-c. Univariate statistics, multivariate statistics
-d. Geostatistics and big data analytics
+(a) Sampling theory, stationarity, data debiasing
+(b) Random variables and functions
+(c) Univariate statistics, multivariate statistics
+(d) Geostatistics and big data analytics
 
 2. Spatial Data Analysis
-a. Trend modeling
-b. Variogram calculation, interpretation and modeling
-c. Scaling relations
-d. Training images
+(a) Trend modeling
+(b) Variogram calculation, interpretation and modeling
+(c) Scaling relations
+(d) Training images
 
 3. Estimation
-a. Interpolation
-b. Kriging estimation
-c. Cokriging estimation
-d. Cross validation
+(a) Interpolation
+(b) Kriging estimation
+(c) Cokriging estimation
+(d) Cross validation
 
 4. Stochastic Simulation
-a. Simulation paradigm
-b. Gaussian simulation and truncated Gaussian simulation
-c. Indicator simulation
-d. Multiple-point simulation
-e. Process-mimicking
-f. Minimum acceptance and uncertainty checks
+(a) Simulation paradigm
+(b) Gaussian simulation and truncated Gaussian simulation
+(c) Indicator simulation
+(d) Multiple-point simulation
+(e) Process-mimicking
+(f) Minimum acceptance and uncertainty checks
 
 5. Uncertainty Management
-a. Spatial bootstrap
-b. Model post-processing
-c. Decision making
+(a) Spatial bootstrap
+(b) Model post-processing
+(c) Decision making
 
 I am open to revisions to the outline to accommodate student learning needs.
