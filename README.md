@@ -4,6 +4,8 @@ Prof. Michael J. Pyrcz, Ph.D., P.Eng.
 Hildebrand Department of Petroleum & Geosystems Engineering
 University of Texas at Austin
 
+This repository includes the support material for this course.
+
 #### Bio
 
 Michael Pyrcz is an associate professor at the University of Texas at Austin. He teaches and consults on the practice of geostatistical reservoir modeling and conducts research on new geostatistical methods to improve reservoir modeling and uncertainty for conventional and unconventional reservoirs. He has published over 40 peer reviewed technical articles, a textbook with Oxford University Press, and is an associated editor with Computers & Geosciences. For more details see www.michaelpyrcz.com or follow him on Twitter @GeostatsGuy.
