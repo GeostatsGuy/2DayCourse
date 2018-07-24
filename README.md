@@ -33,20 +33,16 @@ For the following 2-day class outline it is assumed that: (1) the class will be 
 3. Estimation
 (a) Interpolation
 (b) Kriging estimation
-(c) Cokriging estimation
-(d) Cross validation
+(c) Predrill prediction
 
 4. Stochastic Simulation
 (a) Simulation paradigm
-(b) Gaussian simulation and truncated Gaussian simulation
-(c) Indicator simulation
-(d) Multiple-point simulation
-(e) Process-mimicking
-(f) Minimum acceptance and uncertainty checks
+(b) Gaussian simulation
+(c) Minimum acceptance and uncertainty checks
 
 5. Uncertainty Management
-(a) Spatial bootstrap
+(a) (Spatial) bootstrap
 (b) Model post-processing
-(c) Decision making
+(c) Uncertainty workflows
 
 I am open to revisions to the outline to accommodate student learning needs.
