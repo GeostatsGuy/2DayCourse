@@ -1,10 +1,11 @@
 # 2-Day Course – Spatial Modeling with Geostatistics
+"Everything Geoscientists and Data Scientists Need to Know About Geostatistics"
 
 Prof. Michael J. Pyrcz, Ph.D., P.Eng.
 Hildebrand Department of Petroleum & Geosystems Engineering
 University of Texas at Austin
 
-This repository includes the support material for this course.
+This repository includes the lectures for this short course.  The suppliemental materials with workflows, demonstrations, hands-on and data are here: https://github.com/GeostatsGuy/2DayCourse_Exercises.
 
 #### Bio
 
