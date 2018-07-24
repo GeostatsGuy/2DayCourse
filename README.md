@@ -45,4 +45,9 @@ For the following 2-day class outline it is assumed that: (1) the class will be 
 (b) Model post-processing
 (c) Uncertainty workflows
 
+6. Machine Learning for Subsurface
+(a) Estimation variance
+(b) Multivariate analysis 
+(c) Decision Tree
+
 I am open to revisions to the outline to accommodate student learning needs.
