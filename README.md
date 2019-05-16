@@ -1,3 +1,7 @@
+<p>
+    <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png" width="220" height="200" />
+</p>
+
 # 2-Day Course – Spatial Modeling with Geostatistics
 "Everything Geoscientists and Data Scientists Need to Know About Geostatistics"
 
